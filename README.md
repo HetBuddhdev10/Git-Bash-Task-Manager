@@ -1,2 +1,2 @@
 # Git-Bash-Task-Manager
-A task manager built in Bash and JSON storage and interactive CLI features. 
+ A command-line task management system for Git Bash with user authentication and features like adding, viewing, editing, and deleting tasks stored in JSON.
